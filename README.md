@@ -1,4 +1,4 @@
-Linux System Administrator/DevOp Interview Questions
+Linux System Administrator/DevOps Interview Questions
 ====================================================
 
 A collection of linux sysadmin/devop interview questions. Feel free to contribute via pull requests, issues or email messages.
